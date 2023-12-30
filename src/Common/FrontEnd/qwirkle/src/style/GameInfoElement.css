@@ -1,0 +1,15 @@
+.playerInfoContainer {
+    width: 1000px;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.gameInfoBoard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
